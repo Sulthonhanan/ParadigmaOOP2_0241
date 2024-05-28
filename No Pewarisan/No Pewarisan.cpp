@@ -28,6 +28,6 @@ int main()
     derivedClass a;
     a.perkenalan();
 
-    return 0;
+    return 0; 
 }
 
